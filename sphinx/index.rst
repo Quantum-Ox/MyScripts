@@ -6,10 +6,13 @@
 Welcome to the documentation of my scripts!
 ========================================================
 
+This is a description of this website. This is a first example website
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   summary
    code
 
 
